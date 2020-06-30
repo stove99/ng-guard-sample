@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-guard-sample"
+    }
+  },
+  "defaultProject": "ng-guard-sample",
+  "cli": {
+    "analytics": false
+  }
 }
